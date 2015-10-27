@@ -2,6 +2,7 @@ body
 {
 	margin:0px;
 	position:relative;
+	font-family:Calibri;
 }
 
 h1,h2,h3
@@ -12,6 +13,7 @@ h1,h2,h3
 p
 {
 	font-family:Calibri;
+	text-align:justify;
 }
 
 .affix {
