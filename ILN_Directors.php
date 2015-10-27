@@ -22,10 +22,10 @@
 		</div>
 		<div class="row">
 			<div class="col-md-offset-3 col-md-6">
-				<?php include "content/c_homepage.php"; ?>
+				<?php include "content/c_iln_directors.php"; ?>
 			</div>
 			<div class="col-md-3">
-				<?php include "right_column/rc_homepage.php"; ?>
+				<?php include "right_column/rc_iln_directors.php"; ?>
 			</div>
 		</div>
 		
