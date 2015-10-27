@@ -80,14 +80,7 @@
 			  </ul>
 			</li>
 			<li><a href="support_the_ILN.php">Support the ILN</a></li>
-		  </ul>
-		  
-			
-			
-			
-			
-			
-		  
+		  </ul>  
 		  
 		  <ul class="nav navbar-nav navbar-right">
 			
