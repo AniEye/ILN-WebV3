@@ -29,7 +29,7 @@
 				<div class="col-md-offset-3 col-md-6">
 					<?php include "content/c_support_the_iln.php"; ?>
 				</div>
-				<div class="col-md-3">
+				<div class="col-md-2">
 					<?php include "right_column/rc_support_the_iln.php"; ?>
 				</div>
 			</div>
