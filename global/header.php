@@ -23,7 +23,7 @@
 			<span class="sr-only">Toggle Dropdown</span>
 		  </button>
 		  <ul class="dropdown-menu">
-			<li><a href="#">Meet our team</a></li>
+			<li><a href="meet_our_team.php">Meet our team</a></li>
             <li><a href="#">Presentations and publications</a></li>
 			<li role="separator" class="divider"></li>
             <li><a href="#">Code of Conduct</a></li>            
@@ -40,7 +40,7 @@
 			<span class="sr-only">Toggle Dropdown</span>
 		  </button>
 		  <ul class="dropdown-menu">
-			<li><a href="#">About ILN Partnerships</a></li>
+			<li><a href="about_ILN_partnerships.php">About ILN Partnerships</a></li>
 			<li><a href="#">ILN Timetable</a></li>
 			<li><a href="#">Frequently Asked Questions</a></li>
 			<li><a href="#">Past Discussion Topics</a></li>
@@ -60,7 +60,7 @@
 			<li><a href="#">Twitter Chats</a></li>
 		  </ul>
 		</li>
-		<li><a href="#">Support the ILN</a></li>
+		<li><a href="support_the_ILN.php">Support the ILN</a></li>
       </ul>
       
 		
