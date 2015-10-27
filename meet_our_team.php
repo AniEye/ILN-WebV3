@@ -28,7 +28,7 @@
 				<div class="col-md-offset-3 col-md-6">
 					<?php include "content/c_meet_our_team.php"; ?>
 				</div>
-				<div class="col-md-3">
+				<div class="col-md-2">
 					<?php include "right_column/rc_meet_our_team.php"; ?>
 				</div>
 			</div>

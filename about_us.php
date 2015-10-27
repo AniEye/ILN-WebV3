@@ -30,7 +30,7 @@
 				<div class="col-md-offset-3 col-md-6">
 					<?php include "content/c_about_us.php"; ?>
 				</div>
-				<div class="col-md-3">
+				<div class="col-md-2">
 					<?php include "right_column/rc_about_us.php"; ?>
 				</div>
 			</div>
