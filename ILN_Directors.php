@@ -2,8 +2,14 @@
 
 <html>
 	<head>
-		<title>ILN HomePage</title>
-		<meta charset="utf-8">	
+		<title>ILN Directors</title>
+		<meta charset="utf-8">
+		<meta name="title" content="ILN Directors">
+		<meta name="author" content="Andre Laugaland, Ali Ahmad Shazada">
+		<meta name="description" content="It contains information about ILN Directors and contact details">
+		<meta name="keywords" content="Directors, ILN Directors, Alyson Dalby, Clare McKenzie, Kate Byrne, Director of Business Operations, Director of Communications, Director of Technical Operations ">
+		<meta name="publisher" content="ILN">
+		<meta name="created" content="2015-10-31">
 		<!-- Bootstrap and JQuery -->
 		<link rel="stylesheet" href="css/bootstrap.min.css">			
 		<script src="js/jquery-1.11.3.min.js"></script>

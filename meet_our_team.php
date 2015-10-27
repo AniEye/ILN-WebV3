@@ -2,8 +2,14 @@
 
 <html>
 	<head>
-		<title>ILN HomePage</title>
+		<title>Meet our Team</title>
 		<meta charset="utf-8">	
+		<meta name="title" content="Meet our Team">
+		<meta name="author" content="Andre Laugaland, Ali Ahmad Shazada">
+		<meta name="description" content="It contains information about dedicated team of ILN volunteers">
+		<meta name="keywords" content="Meet our team, ILN Directors, ILN Ambassadors, ILN Coordinators and Consultants, ILN BoardDirectors, volunteers">
+		<meta name="publisher" content="ILN">
+		<meta name="created" content="2015-10-31">
 		<!-- Bootstrap and JQuery -->
 		<link rel="stylesheet" href="css/bootstrap.min.css">			
 		<script src="js/jquery-1.11.3.min.js"></script>
