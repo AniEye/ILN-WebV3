@@ -1,4 +1,4 @@
-<p>
+
 	<h1>ABOUT ILN PARTNERSHIPS</h1>
 	<h3>Matching participants</h3>
 	<p>The ILN will use the information provided by prospective participants to match them with other participants, to form a partnership. We will look at things like the sector that they work in, location, career stage, and areas of interest. The more information we have the better the match will be, however if applicants are very particular in the type of person they would like to be partnered with it may be difficult for us to find the perfect match for you.
@@ -26,6 +26,6 @@
 	</p>
 	<p>Once formal partnerships have concluded, everyone is welcome to apply for subsequent partnership rounds.
 	</p>
+
 		
 		
-</p>
