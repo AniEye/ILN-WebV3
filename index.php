@@ -4,6 +4,14 @@
 	<head>
 		<title>ILN HomePage</title>
 		<meta charset="utf-8">	
+		
+		<meta name="title" content="ILN HomePage">
+		<meta name="author" content="Andre Laugaland, Ali Ahmend Shazada">
+		<meta name="description" content="This is the International Librarians Networks' homepage that contains relevant news">
+		<meta name="keywords" content="HomePage, International Librarians Network, Lis Education, News">
+		<meta name="publisher" content="ILN">
+		<meta name="created" content="2015-10-31">
+		
 		<!-- Bootstrap and JQuery -->
 		<link rel="stylesheet" href="css/bootstrap.min.css">			
 		<script src="js/jquery-1.11.3.min.js"></script>

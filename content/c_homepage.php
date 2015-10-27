@@ -7,8 +7,8 @@
 	<div class="col-md-2">
 		<img height="250px" width="250px" src="img/homepage_pic.jpg"/>
 	</div>
-	<div class="col-md-2"></div>
-	<div class="col-md-8">
+	
+	<div class="col-md-8 col-md-offset-2">
 		<p>
 			While doing some research for this discussion topic, I came across this very comprehensive 
 			look at the development of LIS education around the world. Presented as a slideshow, this 
