@@ -23,7 +23,15 @@
 			<span class="sr-only">Toggle Dropdown</span>
 		  </button>
 		  <ul class="dropdown-menu">
-			<li><a href="meet_our_team.php">Meet our team</a></li>
+			<li class="dropdown-submenu">
+				<a href="meet_our_team.php">Meet our team</a>
+				<ul class="dropdown-menu">
+					<li><a href="ILN_directors.php">ILN Directors</a></li>            
+					<li><a href="#">ILN Ambassadors</a></li>           
+					<li><a href="#">ILN Coordinators and Consultants</a></li>
+					<li><a href="#">ILN Board</a></li>
+				</ul>
+			</li>
             <li><a href="#">Presentations and publications</a></li>
 			<li role="separator" class="divider"></li>
             <li><a href="#">Code of Conduct</a></li>            
