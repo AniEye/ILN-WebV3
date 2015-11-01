@@ -17,7 +17,7 @@
 		<li><strong>Where?</strong> Sydney, Australia</li>
 		<li><strong>Currently employed by: </strong><a href="http://library.unsw.edu.au/">UNSW Library</a></li>
 		<li><strong>Twitter handle: </strong><a href="https://twitter.com/ccmcknz">@ccmcknz</a></li>
-		<li><p><strong>About: </strong>Clare is currently the Outreach Team Leader for Humanities, Creative Arts and Social Sciences at the University of New South Wales (UNSW) Library. Outreach provides a hub for communication between the Library and the UNSW academic community. She has previously worked with library repository services and research data management. Clare blogs as the  <a href="https://familylibrarian.wordpress.com/">Family Librarian</a>or you can find her on twitter as <a href="https://twitter.com/ccmcknz">@ccmcknz.</a></p></li>
+		<li><p><strong>About: </strong>Clare is currently the Team Leader for Humanities, Creative Arts and Social Sciences at the University of New South Wales (UNSW) Library. Outreach provides a hub for communication between the Library and the UNSW academic community. She has previously worked with library repository services and research data management. Clare blogs as the  <a href="https://familylibrarian.wordpress.com/">Family Librarian</a>or you can find her on twitter as <a href="https://twitter.com/ccmcknz">@ccmcknz.</a></p></li>
 	
 	</ul>
 	

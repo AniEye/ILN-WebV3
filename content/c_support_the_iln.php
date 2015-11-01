@@ -2,7 +2,7 @@
 	<h1>SUPPORT THE ILN</h1>
 	<p>The International Librarians Network is a non-profit organisation run entirely by volunteers. The ILN is an incorporated association in New South Wales (NSW), Australia and is regulated by NSW Fair Trading under the Associations Incorporation Act 2009.
 	</p>
-	<p>Created and run by librarians for librarians, the ILN could not exist without the generous donations of time, energy and finance made by our volunteers, participants and the ILN community.
+	<p>It is created and run by librarians for librarians, the ILN could not exist without the generous donations of time, energy and finance made by our volunteers, participants and the ILN community.
 	</p>
 	<p>By donating to the ILN you help us keep the program free for participants all around the world. You are also helping secure the financial and operational sustainability of the program for the future. All donations help, big or small.
 	</p>
